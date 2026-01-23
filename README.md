@@ -20,7 +20,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=600&color=00D1B2&center=true&vCenter=true&width=800&lines=Developer+%7C+Backend+%26+Data+Enthusiast+%7C+Problem+Solver;Java+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Power+BI;Building+scalable+software+and+data-driven+insights" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=600&color=00D1B2&center=true&vCenter=true&width=800&lines=Developer+%7C+Backend+%26+Data+Enthusiast+%7C+Pro[...]"
 </p>
 
 ---
@@ -120,7 +120,7 @@ Tip: Pin these repos on your GitHub profile and add Demo | Code links.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogesh12002&show_icons=true&theme=radical&hide_title=true&rank_icon=github" width="48%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogesh12002&theme=radical" width="48%" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=yogesh12002&theme=radical" width="48%" alt="streak"/>
 </p>
 
 <details>
@@ -141,4 +141,3 @@ Tip: Pin these repos on your GitHub profile and add Demo | Code links.
 </p>
 
 <p align="center">⭐️ If something here helped you, consider starring my repos!</p>
-Why 
