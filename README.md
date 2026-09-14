@@ -1,147 +1,1069 @@
+<!-- ========================================================= -->
 
+<!--                        HERO SECTION                        -->
 
+<!-- ========================================================= -->
 
-
-<!-- Hero -->
-<h1 align="center">Hi there, I'm Yogesh Gupta 👋</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Gupta</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation">
+  <strong>Software Developer • Backend Engineer • Data & Cloud Enthusiast</strong>
 </p>
 
 <p align="center">
-  🎓 B.Tech in Computer Science & Engineering • 📍 Vadodara, India
-  <br/>
-  📧 <a href="mailto:yogeshgupta12002@gmail.com">yogeshgupta12002@gmail.com</a> • 
-  🔗 <a href="https://linkedin.com/in/001-yogesh-gupta">LinkedIn</a>
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="380"
+    alt="Coding animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogesh12002&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
-  <a href="https://github.com/yogesh12002?tab=followers"><img src="https://img.shields.io/github/followers/yogesh12002?label=Followers&style=flat" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collab-1abc9c?style=flat" alt="open to"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00D1B2&center=true&vCenter=true&width=850&lines=Building+Backend+Systems;Designing+RESTful+APIs;Engineering+Data+Pipelines;Exploring+Cloud+Infrastructure;Working+with+Linux+%26+Networking;Exploring+AI+%26+Agentic+Systems;Turning+Ideas+into+Production+Systems"
+    alt="Typing introduction"
+  />
 </p>
-
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=600&color=00D1B2&center=true&vCenter=true&width=800&lines=Developer+%7C+Backend+%26+Data+Enthusiast+%7C+Pro[...]"
-</p>
-
----
-
-## 🚀 About Me
-
-- Computer Science student passionate about backend systems, data analytics, and networked applications  
-- Hands-on with Java Spring Boot, Python data analysis, and React frontends  
-- Enjoy designing clean APIs, modeling data for insights, and optimizing performance  
-- Open to internships, open-source, and meaningful collaborations
-
----
-
-## 🧩 What I’m Working On
-
-- Learning: system design, REST best practices, Docker fundamentals  
-- Practicing: ETL pipelines, EDA, and interactive dashboards  
-- Exploring: agentic AI use-cases and practical ML for business insights
-
----
-
-## 🛠 Tech Stack
-
-- Languages  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- Frameworks & Tools  
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000?style=flat&logo=intellij-idea&logoColor=white)
-
-- Databases  
-  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-- Data/ML  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC4D?style=flat&logo=huggingface&logoColor=000)
-
----
-
-## 🧪 Featured Projects
-
-- E‑commerce Sales Analytics Data Pipeline  
-  ETL from raw orders/products/customers to a star schema in SQLite; analytics for category revenue and top customers.  
-  Tech: Python, Pandas, SQLite, SQL
-
-- Amazon Sales Analysis (EDA)  
-  Revenue trends, top‑selling products, and seasonality with clean visuals for business decisions.  
-  Tech: Python, Pandas, Seaborn, Matplotlib
-
-- Blinkit Dashboard  
-  Interactive Power BI dashboard with slicers, KPIs, and drill‑downs for category and customer behavior.  
-  Tech: Power BI, Data Modeling
-
-- Sentiment Analysis Tool  
-  Text classification (positive/negative/neutral) using a pre‑trained Hugging Face model on Colab; includes data viz.  
-  Tech: Python, Transformers, Colab
-
-- Code Review Enhancement  
-  Web tool with Markdown rendering and styling improvements for readable code reviews.  
-  Tech: HTML, CSS, JavaScript
-
-Tip: Pin these repos on your GitHub profile and add Demo | Code links.
-
----
-
-## 💼 Experience
-
-- Lab Tech Intern — Parul University (May 2023 – Nov 2023)  
-  Configured and deployed APs/switches, installed routers, resolved Wi‑Fi issues, assisted in firmware upgrades, and documented troubleshooting.
-
----
-
-## 🧾 Certifications
-
-- Tata Group Data Analytics Job Simulation (Forage), Jun 2025  
-  EDA with GenAI tools, risk indicators, predictive modeling framework, and AI‑driven collections strategy.
-
-- HPE Software Engineering Job Simulation  
-  Spring Boot REST service with JSON upload support and unit testing.
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh12002&show_icons=true&theme=radical&hide_title=true&rank_icon=github" width="48%" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=yogesh12002&theme=radical" width="48%" alt="streak"/>
+  <a href="https://github.com/yogesh12002">
+    <img src="https://img.shields.io/badge/GitHub-yogesh12002-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/001-yogesh-gupta">
+    <img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Gupta-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yogeshgupta12002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<details>
-  <summary><b>Top Languages</b></summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh12002&layout=compact&theme=radical&langs_count=8" alt="top languages"/>
-  <br/>
-  <sub>Note: Top languages is a metric of repo code, not skill.</sub>
-</details>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=yogesh12002&label=PROFILE%20VIEWS&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/yogesh12002?label=FOLLOWERS&style=flat"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/badge/Open%20To-Opportunities-00D1B2?style=flat"
+    alt="Open to opportunities"
+  />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+# 👨‍💻 About Me
 
-<p align="center">
-  <a href="mailto:yogeshgupta12002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/001-yogesh-gupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+I'm a **Computer Science & Engineering developer** interested in building practical software systems across **backend engineering, cloud infrastructure, networking, data engineering, analytics, and AI**.
+
+I enjoy understanding a system beyond just writing code — from architecture and data flow to deployment, networking, security, troubleshooting, and optimization.
+
+### What I work with
+
+* Backend development with **Java & Spring Boot**
+* RESTful API design and development
+* Python-based data processing and analytics
+* SQL and database design
+* Data pipelines and ETL
+* Power BI and business intelligence
+* Linux and WSL environments
+* Networking and infrastructure
+* VPN and secure networking concepts
+* Microsoft Azure
+* Docker and deployment
+* AI / NLP / Transformers
+* System design fundamentals
+
+### Engineering Mindset
+
+```text
+Problem
+   ↓
+Requirements
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Monitoring
+   ↓
+Optimization
+```
+
+My goal is to continuously move from **building projects → understanding systems → designing production-ready solutions**.
+
+---
+
+# 🧠 Technical Focus
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    ENGINEERING FOCUS                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Backend Engineering                                       │
+│  ├── Java                                                   │
+│  ├── Spring Boot                                            │
+│  ├── REST APIs                                              │
+│  ├── JSON                                                   │
+│  └── API Architecture                                       │
+│                                                             │
+│  Data Engineering & Analytics                              │
+│  ├── Python                                                 │
+│  ├── Pandas                                                 │
+│  ├── SQL                                                    │
+│  ├── ETL                                                    │
+│  ├── Data Modeling                                          │
+│  └── Business Intelligence                                  │
+│                                                             │
+│  Cloud & DevOps                                             │
+│  ├── Microsoft Azure                                        │
+│  ├── Docker                                                 │
+│  ├── Linux                                                  │
+│  ├── Git                                                    │
+│  └── CI/CD                                                  │
+│                                                             │
+│  Networking & Infrastructure                               │
+│  ├── TCP/IP                                                 │
+│  ├── Routing                                                │
+│  ├── VPN                                                    │
+│  ├── Wi-Fi                                                  │
+│  ├── Routers                                                │
+│  └── Switches                                               │
+│                                                             │
+│  AI / ML                                                    │
+│  ├── NLP                                                    │
+│  ├── Transformers                                           │
+│  ├── Hugging Face                                           │
+│  └── Agentic AI                                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Technology Stack
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-<p align="center">⭐️ If something here helped you, consider starring my repos!</p>
+**Primary:** Java • Python • JavaScript
+
+**Web:** HTML • CSS
+
+---
+
+## ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</p>
+
+* Spring Boot
+* REST APIs
+* React
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Hugging Face Transformers
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+* MySQL
+* MongoDB
+* SQLite
+* SQL
+* Relational database design
+* Data modeling
+* CRUD operations
+* Joins and aggregations
+* Query optimization fundamentals
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" />
+</p>
+
+* Microsoft Azure
+* Docker
+* Linux
+* WSL
+* Git
+* GitHub
+* CI/CD fundamentals
+* Cloud deployment
+* Cloud security
+* Cost optimization
+
+---
+
+## 🔧 Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
+</p>
+
+* Visual Studio Code
+* IntelliJ IDEA
+* Android Studio
+* Git
+* GitHub
+* Linux CLI
+* WSL
+
+---
+
+# 🏗️ Architecture & Engineering Concepts
+
+I'm actively building knowledge around:
+
+* Object-Oriented Programming
+* SOLID principles
+* Layered architecture
+* MVC
+* REST architecture
+* API design
+* HTTP / HTTPS
+* Authentication
+* Authorization
+* RBAC
+* Managed Identity
+* Database design
+* Data modeling
+* ETL
+* System design
+* Networking
+* TCP/IP
+* Routing
+* VPN architecture
+* Containerization
+* Cloud architecture
+* Logging and monitoring
+* Performance optimization
+* Debugging and troubleshooting
+
+---
+
+# 🚀 Featured Projects
+
+## 🐦 01 — Colibri
+
+**Developer Environment / Local Server / Linux**
+
+**Status:** 🚧 Active Development
+
+Colibri is a developer-oriented application/server environment that I worked with through **WSL and Linux**, focusing on running, managing, and interacting with services locally.
+
+### Architecture
+
+```text
+                    WINDOWS HOST
+                         │
+                         ▼
+                    ┌─────────┐
+                    │   WSL   │
+                    └────┬────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    Colibri    │
+                 │               │
+                 │ Application   │
+                 │ API Server    │
+                 │ Runtime       │
+                 └───────┬───────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │ Local Clients   │
+                ├─────────────────┤
+                │ Browser         │
+                │ API Client      │
+                │ Other Projects  │
+                └─────────────────┘
+```
+
+### Engineering Work
+
+* Running the application inside WSL
+* Managing local server processes
+* Starting and stopping services
+* Working with API endpoints
+* Connecting other projects to the server
+* Understanding local networking
+* Debugging runtime issues
+* Managing Linux development environments
+* Creating repeatable server workflows
+
+### Technical Areas
+
+`WSL` `Linux` `API` `Local Server` `Networking` `CLI`
+
+---
+
+# 🔐 02 — VPN Project
+
+**Networking / Security / Infrastructure**
+
+**Status:** 🚧 Development
+
+A networking-focused VPN project exploring the architecture behind **secure tunnels, client-server communication, routing, and encrypted network traffic**.
+
+### High-Level Architecture
+
+```text
+                       INTERNET
+                           │
+                           │
+                    ┌──────▼──────┐
+                    │ VPN CLIENT  │
+                    │             │
+                    │ User Device │
+                    └──────┬──────┘
+                           │
+                           │
+                   Encrypted Tunnel
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ VPN SERVER  │
+                    │             │
+                    │ Encryption  │
+                    │ Routing     │
+                    │ Access      │
+                    └──────┬──────┘
+                           │
+                           ▼
+                       NETWORK
+```
+
+### Areas of Focus
+
+* VPN architecture
+* Secure tunneling
+* Client/server networking
+* Routing
+* Encryption concepts
+* Linux networking
+* Remote connectivity
+* Network troubleshooting
+
+### Concepts
+
+`VPN` `TCP/IP` `Routing` `Linux` `Networking` `Encryption`
+
+---
+
+# 🛒 03 — E-Commerce Sales Analytics Pipeline
+
+**Data Engineering / ETL / SQL**
+
+**Status:** ✅ Completed
+
+An end-to-end data pipeline that transforms raw e-commerce data into structured analytical information.
+
+### Pipeline
+
+```text
+       ORDERS       PRODUCTS       CUSTOMERS
+          │             │               │
+          └─────────────┼───────────────┘
+                        ▼
+                 DATA INGESTION
+                        │
+                        ▼
+                  DATA CLEANING
+                        │
+                        ▼
+                  TRANSFORMATION
+                        │
+                        ▼
+                     SQLite
+                        │
+                        ▼
+                  SQL ANALYTICS
+                        │
+                        ▼
+                BUSINESS INSIGHTS
+```
+
+### Features
+
+* Data ingestion
+* Data cleaning
+* ETL processing
+* Database modeling
+* SQL analytics
+* Customer analysis
+* Product analysis
+* Revenue analysis
+* Category-level analysis
+
+**Tech Stack**
+
+`Python` `Pandas` `SQL` `SQLite`
+
+---
+
+# 📦 04 — Amazon Sales Analysis
+
+**Data Analytics / EDA**
+
+**Status:** ✅ Completed
+
+Exploratory Data Analysis project focused on discovering sales trends and business insights.
+
+### Analysis
+
+* Revenue trends
+* Product performance
+* Category performance
+* Top-selling products
+* Sales distribution
+* Seasonal trends
+* Business recommendations
+
+### Workflow
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+EDA
+   ↓
+Statistical Analysis
+   ↓
+Visualization
+   ↓
+Business Insights
+```
+
+**Tech Stack**
+
+`Python` `Pandas` `Seaborn` `Matplotlib`
+
+---
+
+# 📊 05 — Blinkit Analytics Dashboard
+
+**Business Intelligence / Power BI**
+
+**Status:** ✅ Completed
+
+Interactive Power BI dashboard designed to analyze retail sales and customer behavior.
+
+### Architecture
+
+```text
+Raw Dataset
+     ↓
+Data Cleaning
+     ↓
+Data Modeling
+     ↓
+Relationships
+     ↓
+DAX Measures
+     ↓
+Dashboard
+     ↓
+Business Insights
+```
+
+### Features
+
+* KPI monitoring
+* Sales analysis
+* Category analysis
+* Product analysis
+* Customer behavior
+* Interactive slicers
+* Drill-down analysis
+* Business reporting
+
+**Tech Stack**
+
+`Power BI` `DAX` `Data Modeling`
+
+---
+
+# 🤖 06 — Sentiment Analysis System
+
+**AI / NLP / Transformers**
+
+**Status:** ✅ Completed
+
+NLP application for classifying text sentiment using pretrained transformer models.
+
+### Architecture
+
+```text
+Text Input
+    │
+    ▼
+Text Processing
+    │
+    ▼
+Tokenization
+    │
+    ▼
+Transformer Model
+    │
+    ▼
+Inference
+    │
+    ▼
+Sentiment Classification
+    │
+    ▼
+Visualization
+```
+
+### Capabilities
+
+* Text processing
+* NLP classification
+* Transformer inference
+* Sentiment analysis
+* Visualization
+* Model experimentation
+
+**Tech Stack**
+
+`Python` `Hugging Face` `Transformers` `Google Colab`
+
+---
+
+# 🌐 07 — Code Review Enhancement Tool
+
+**Frontend / Developer Tooling**
+
+**Status:** ✅ Completed
+
+A web-based developer tool focused on improving the readability and presentation of code-review content.
+
+### Features
+
+* Markdown rendering
+* Code presentation
+* UI improvements
+* Developer-focused interface
+* Frontend interactions
+
+### Architecture
+
+```text
+User Input
+    │
+    ▼
+Frontend
+    │
+    ├── HTML
+    ├── CSS
+    └── JavaScript
+    │
+    ▼
+Rendered Code / Markdown
+```
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# ☁️ 08 — Azure Cloud & Deployment
+
+**Cloud / DevOps / Infrastructure**
+
+**Status:** 🚧 Active Learning
+
+Hands-on cloud engineering work focused on understanding how applications are deployed, secured, and operated on Azure.
+
+### Cloud Architecture
+
+```text
+                  APPLICATION
+                       │
+                       ▼
+                  CONTAINER
+                       │
+                       ▼
+                AZURE COMPUTE
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+       STORAGE      DATABASE     NETWORK
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                 IDENTITY / RBAC
+                       │
+                       ▼
+                 MONITORING
+```
+
+### Azure Concepts
+
+* Azure Compute
+* Azure Storage
+* Azure Networking
+* RBAC
+* Managed Identity
+* Storage access roles
+* Application deployment
+* Cloud security
+* Monitoring
+* Cost optimization
+
+**Tech Stack**
+
+`Microsoft Azure` `Docker` `Linux` `Git`
+
+---
+
+# ⚙️ 09 — Spring Boot REST API Projects
+
+**Backend Engineering**
+
+**Status:** 🔬 Ongoing
+
+Backend development work focused on building structured REST APIs using Java and Spring Boot.
+
+### Architecture
+
+```text
+                    CLIENT
+                      │
+                      ▼
+                  REST API
+                      │
+                      ▼
+                 CONTROLLER
+                      │
+                      ▼
+                   SERVICE
+                      │
+                      ▼
+                 REPOSITORY
+                      │
+                      ▼
+                  DATABASE
+```
+
+### Concepts
+
+* REST APIs
+* HTTP methods
+* JSON
+* CRUD
+* Layered architecture
+* Service layer
+* Repository layer
+* Validation
+* Exception handling
+* Database integration
+* Unit testing
+* API security
+
+**Tech Stack**
+
+`Java` `Spring Boot` `REST API` `JSON` `SQL`
+
+---
+
+# 🐧 10 — Linux & WSL Development Environment
+
+**Infrastructure / Developer Environment**
+
+**Status:** 🔬 Ongoing
+
+Practical work with Linux environments through WSL for development, server management, networking, and application execution.
+
+### Areas
+
+* Linux CLI
+* Package management
+* Processes
+* Ports
+* Services
+* Environment variables
+* File permissions
+* Networking
+* Server management
+* Development environments
+
+### Environment
+
+```text
+Windows
+   │
+   ▼
+WSL
+   │
+   ├── Linux
+   ├── Development Tools
+   ├── Servers
+   ├── APIs
+   └── Services
+```
+
+---
+
+# 🌐 11 — Networking & Infrastructure
+
+**Networking / Infrastructure**
+
+**Status:** ✅ Practical Experience
+
+Hands-on experience with networking equipment and infrastructure troubleshooting.
+
+### Work
+
+* Access point configuration
+* Switch configuration
+* Router installation
+* Wi-Fi troubleshooting
+* Firmware upgrades
+* Network diagnostics
+* Infrastructure troubleshooting
+* Technical documentation
+
+### Concepts
+
+`TCP/IP` `LAN` `Wi-Fi` `Routers` `Switches` `Access Points`
+
+---
+
+# 📚 Project Portfolio
+
+| #  | Project                           | Domain                | Status         |
+| -- | --------------------------------- | --------------------- | -------------- |
+| 01 | **Colibri**                       | Linux / Server / API  | 🚧 Active      |
+| 02 | **VPN Project**                   | Networking / Security | 🚧 Development |
+| 03 | **E-Commerce Analytics Pipeline** | Data Engineering      | ✅ Completed    |
+| 04 | **Amazon Sales Analysis**         | Data Analytics        | ✅ Completed    |
+| 05 | **Blinkit Dashboard**             | Business Intelligence | ✅ Completed    |
+| 06 | **Sentiment Analysis**            | AI / NLP              | ✅ Completed    |
+| 07 | **Code Review Tool**              | Web Development       | ✅ Completed    |
+| 08 | **Azure Cloud Work**              | Cloud / DevOps        | 🚧 Active      |
+| 09 | **Spring Boot APIs**              | Backend Engineering   | 🔬 Ongoing     |
+| 10 | **Linux / WSL Environment**       | Infrastructure        | 🔬 Ongoing     |
+| 11 | **Networking Projects**           | Networking            | ✅ Practical    |
+
+---
+
+# 🔒 Security & Infrastructure Mindset
+
+I'm building practical knowledge around securing and operating applications.
+
+```text
+Application
+     │
+     ▼
+Authentication
+     │
+     ▼
+Authorization
+     │
+     ▼
+RBAC
+     │
+     ▼
+Network Security
+     │
+     ▼
+Encrypted Communication
+     │
+     ▼
+Secure Storage
+     │
+     ▼
+Monitoring & Logging
+```
+
+### Security Concepts
+
+* Authentication
+* Authorization
+* RBAC
+* Least privilege
+* Managed Identity
+* Secure API design
+* VPN
+* Encryption
+* Network security
+* Secrets management
+* Secure cloud configuration
+
+---
+
+# 📈 Data Engineering Workflow
+
+```text
+             RAW DATA
+                 │
+                 ▼
+           INGESTION
+                 │
+                 ▼
+             CLEANING
+                 │
+                 ▼
+          TRANSFORMATION
+                 │
+                 ▼
+           DATA MODEL
+                 │
+                 ▼
+              SQL
+                 │
+                 ▼
+            ANALYTICS
+                 │
+                 ▼
+        VISUALIZATION
+                 │
+                 ▼
+        BUSINESS INSIGHTS
+```
+
+---
+
+# ☁️ Cloud Engineering Workflow
+
+```text
+                 CODE
+                   │
+                   ▼
+                 GIT
+                   │
+                   ▼
+               DOCKER
+                   │
+                   ▼
+             AZURE CLOUD
+                   │
+        ┌──────────┼──────────┐
+        ▼          ▼          ▼
+     COMPUTE    STORAGE    NETWORK
+        │          │          │
+        └──────────┼──────────┘
+                   ▼
+              IDENTITY
+                   │
+                   ▼
+             MONITORING
+```
+
+---
+
+# 💼 Experience
+
+## Lab Technician Intern — Parul University
+
+**May 2023 – November 2023**
+
+Worked with networking and infrastructure operations.
+
+### Responsibilities
+
+* Configured access points
+* Worked with switches
+* Installed and configured routers
+* Troubleshot Wi-Fi connectivity
+* Assisted with firmware upgrades
+* Performed network diagnostics
+* Documented troubleshooting procedures
+
+### Technical Exposure
+
+`Networking` `Routers` `Switches` `Access Points` `Wi-Fi` `Troubleshooting`
+
+---
+
+# 🧾 Certifications & Simulations
+
+## Tata Group — Data Analytics Job Simulation
+
+**Forage | June 2025**
+
+Areas covered:
+
+* Exploratory Data Analysis
+* GenAI-assisted analytics
+* Risk indicators
+* Predictive modeling
+* AI-driven business strategy
+
+---
+
+## HPE — Software Engineering Job Simulation
+
+Areas covered:
+
+* Spring Boot
+* REST APIs
+* JSON handling
+* File upload functionality
+* Backend development
+* Unit testing
+
+---
+
+# 🧪 Development Philosophy
+
+I believe a developer should understand more than just the framework.
+
+```text
+              CODE
+               │
+               ▼
+          ARCHITECTURE
+               │
+               ▼
+              DATA
+               │
+               ▼
+             NETWORK
+               │
+               ▼
+            SECURITY
+               │
+               ▼
+             CLOUD
+               │
+               ▼
+          MONITORING
+               │
+               ▼
+          OPTIMIZATION
+```
+
+My objective is to understand **how individual components work together to form a complete system**.
+
+---
+
+# 🎯 Current Learning Roadmap
+
+```text
+                       2026
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ▼              ▼              ▼
+       BACKEND         CLOUD           DATA
+          │              │              │
+     Spring Boot       Azure            ETL
+     REST APIs         Docker           SQL
+     Security          Networking      Analytics
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+                  SYSTEM DESIGN
+                         │
+                         ▼
+                   AI ENGINEERING
+                         │
+                         ▼
+                 PRODUCTION SYSTEMS
+```
+
+---
+
+# 🤝 Open To
+
+```text
+✓ Software Engineering
+✓ Backend Development
+✓ Data Engineering
+✓ Data Analytics
+✓ Cloud Engineering
+✓ Networking / Infrastructure
+✓ AI / ML Applications
+✓ Open Source
+✓ Technical Collaborations
+✓ Interesting Engineering Projects
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yogesh12002&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub statistics"
+  />
+
+<img
+ src="https://streak-stats.demolab.com?user=yogesh12002&theme=tokyonight&hide_border=true"
+ width="48%"
+ alt="GitHub streak"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh12002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Top languages"
+  />
+</p>
+
+> **Note:** GitHub language statistics represent repository code composition and are not a direct measure of technical proficiency.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:yogeshgupta12002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/001-yogesh-gupta">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/yogesh12002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<strong>Build → Learn → Debug → Deploy → Improve</strong>
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
